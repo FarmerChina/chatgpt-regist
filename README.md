@@ -5,7 +5,7 @@ ChatGPT高质量成品号提供
 
 欢迎来到ChatGPT高质量成品号提供页面！我们提供高质量的ChatGPT成品号，包括120刀成品号和普通成品号。购买链接为：https://fk.huinong.co
 
-## ChatGPT 成品号 120刀余额
+## ChatGPT 成品号 120刀余额 
 
 我们的120刀成品号是ChatGPT的高质量版本，拥有更好的性能和更多的功能。购买120刀成品号可以获得以下内容：
 
@@ -13,6 +13,7 @@ ChatGPT高质量成品号提供
 - 优先技术支持
 - 更快的响应速度
 - 更多的API调用次数
+购买链接：[https://fk.huinong.co/buy/12](https://fk.huinong.co/buy/12)
 
 ## ChatGPT 普通成品号 5美刀余额 零售/批发 可联系
 
@@ -22,6 +23,7 @@ ChatGPT高质量成品号提供
 - 基本技术支持
 - 普通的响应速度
 - 有限的API调用次数
+购买链接：[https://fk.huinong.co/buy/2](https://fk.huinong.co/buy/2)
 
 ## ChatGPT平台
 
