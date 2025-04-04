@@ -64,15 +64,30 @@ ChatGPT - 4.0 API是专门为开发者提供的API接口，可以让开发者更
 
 购买链接：[https://wp.huinong.co/](https://wp.huinong.co/)
 
-## POE AI聚合平台
 
-POE AI聚合平台是一个集成了多种AI模型和API的平台，包括ChatGPT、Sage、GPT-4、Claude+等多个AI领域。POE AI聚合平台还提供了可视化的界面，让非技术人员也可以轻松地使用这些AI功能。
+---
 
-购买链接：[https://wp.huinong.co/](https://wp.huinong.co/)
+## 我们是一帮自由开发者
 
-## 联系我们
+除了喜欢折腾一下自己喜欢的事。
 
-如果您有任何问题或疑问，请随时联系我们。您可以通过以下方式与我们联系：
+现在主要是在做的事：
 
-- 邮箱：ngt@huinong.co
-- 微信：ningjinming1956
+- GPT的底层API提供。
+- AI客服托管千牛和京卖客服消息。
+- AI人工智能家居生活+AI大健康方面。
+
+也有可能会有项目增加或者上面的项目没做了的，欢迎大家咨询了解讨论。当然也希望可以帮助到更多的人并能够得到大家的认可和支持！！！
+
+**GPT API KEY 中转服务：** [GPTech API](https://home.huinong.co)
+
+**导航地址：** [https://home.huinong.co](https://home.huinong.co)
+
+当然有任何问题通过以下方式联系我：
+
+- **邮箱：** [ngt@huinong.co](mailto:ngt@huinong.co)
+- **微信：** ningjinming1956
+- **Telegram：** [https://t.me/gptechai](https://t.me/gptechai)
+- **QQ Discord：** [https://pd.qq.com/s/h89urfu2a](https://pd.qq.com/s/h89urfu2a)
+
+---
