@@ -3,7 +3,7 @@ ChatGPT高质量成品号提供
 
 # ChatGPT高质量成品号提供 零售/批发 可联系
 
-欢迎来到ChatGPT高质量成品号提供页面！我们提供高质量的ChatGPT成品号，包括120刀成品号和普通成品号。购买链接为：https://fk.huinong.co
+欢迎来到ChatGPT高质量成品号提供页面！我们提供高质量的ChatGPT成品号，包括120刀成品号和普通成品号。
 
 ## ChatGPT 成品号 120刀余额 
 
@@ -12,8 +12,7 @@ ChatGPT高质量成品号提供
 - ChatGPT高质量模型
 - 优先技术支持
 - 更快的响应速度
-- 更多的API调用次数
-购买链接：[https://fk.huinong.co/buy/12](https://fk.huinong.co/buy/12)
+- 更多的API调用次数 
 
 ## ChatGPT 普通成品号 5美刀余额 零售/批发 可联系
 
@@ -22,8 +21,7 @@ ChatGPT高质量成品号提供
 - ChatGPT高质量模型
 - 基本技术支持
 - 普通的响应速度
-- 有限的API调用次数
-购买链接：[https://fk.huinong.co/buy/2](https://fk.huinong.co/buy/2)
+- 有限的API调用次数 
 
 ## ChatGPT平台
 
@@ -55,14 +53,12 @@ ChatGPT高质量成品号提供
 ## ChatGPT Plus
 
 ChatGPT Plus是ChatGPT的升级版，拥有更强的语义理解和生成能力。它可以用于智能客服、智能问答、智能写作等多个领域。与之前的版本相比，ChatGPT Plus的生成结果更加流畅自然，能够更好地模拟人类的语言表达。
-
-购买链接：[https://wp.huinong.co/](https://wp.huinong.co/)
+ 
 
 ## ChatGPT - 4.0 API
 
 ChatGPT - 4.0 API是专门为开发者提供的API接口，可以让开发者更加方便地集成ChatGPT的能力到自己的应用中。它支持多种编程语言和平台，包括Python、Java、Node.js等，同时还提供了详细的文档和示例代码。
-
-购买链接：[https://wp.huinong.co/](https://wp.huinong.co/)
+ 
 
 
 ---
@@ -79,9 +75,9 @@ ChatGPT - 4.0 API是专门为开发者提供的API接口，可以让开发者更
 
 也有可能会有项目增加或者上面的项目没做了的，欢迎大家咨询了解讨论。当然也希望可以帮助到更多的人并能够得到大家的认可和支持！！！
 
-**GPT API KEY 中转服务：** [GPTech API](https://home.huinong.co)
+**GPT API KEY 中转服务：** [GPTech API](https://home.tpz.pub)
 
-**导航地址：** [https://home.huinong.co](https://home.huinong.co)
+**导航地址：** [https://home.huinong.co](https://home.tpz.pub)
 
 当然有任何问题通过以下方式联系我：
 
